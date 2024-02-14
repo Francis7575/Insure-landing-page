@@ -8,10 +8,6 @@ html {
   box-sizing: border-box;
 }
 
-body {
-  overflow-x: hidden;
-}
-
 .header {
   display: flex;
   justify-content: space-between;
@@ -278,7 +274,7 @@ footer {
 
 .intro_mobile_right {
   bottom: -189px;
-  right: -1px;
+  right: 1px;
 }
 
 .find_mobile_pattern {
