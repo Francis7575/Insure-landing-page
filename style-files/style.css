@@ -12,29 +12,6 @@ body {
   overflow-x: hidden;
 }
 
-.header {
-  display: flex;
-  justify-content: space-between;
-}
-
-.logo_container {
-  padding: 1.93rem 0 1.93rem 1.5rem;
-}
-
-.logo {
-  max-width: 6.93rem;
-}
-
-.menu_icons {
-  padding: 1.5rem 1.5rem 1.5rem 0;
-}
-
-#openMenu,
-#closeMenu {
-  background: none;
-  border: none;
-}
-
 #ulContainer,
 #closeMenu {
   display: none;
