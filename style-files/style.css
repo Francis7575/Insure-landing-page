@@ -8,6 +8,10 @@ html {
   box-sizing: border-box;
 }
 
+body {
+  overflow-x: hidden;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
