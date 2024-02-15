@@ -235,7 +235,7 @@ footer {
   gap: 2.5rem;
   margin-top: 3rem;
 }
-.same_class h5 {
+.same_class h4 {
   color: #837D88;
   text-transform: uppercase;
   font-size: 0.81rem;
@@ -489,7 +489,7 @@ footer {
     width: 255px;
     align-items: flex-start;
   }
-  .same_class h5 {
+  .same_class h4 {
     margin: 0;
   }
   .footer_links {
