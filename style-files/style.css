@@ -405,6 +405,7 @@ footer {
   }
   .left_container p {
     max-width: 33.75rem;
+    margin: 1rem 0 1.5rem 0;
   }
   .left_line_separator {
     width: 9.37rem;
